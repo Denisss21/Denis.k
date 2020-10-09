@@ -1,0 +1,5 @@
+print("Hi, today you are studying what's this concatenation")
+a = str(input("Enter the first word: "))
+b = str(input("Enter the second word: "))
+print("Result is: ")
+print(a+' '+b)
